@@ -1,6 +1,6 @@
 #+TITLE: Bitcoin core: regtest private network
 #+DESCRIPTION: How to run private bitcoin network with two regtest nodes
-#+TAGS[]: bitcoin-core, bitcoin
+#+TAGS: bitcoin-core, bitcoin
 #+PROPERTY: header-args:sh :session *shell bitcoin-core-regtest-private-network sh* :results silent raw
 #+PROPERTY: header-args:python :session *shell bitcoin-core-regtest-private-network python* :results silent raw
 #+OPTIONS: ^:nil
